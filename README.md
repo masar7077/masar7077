@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Masoud
-- 👀 I’m interested in website design
-- 🌱 I’m currently learning python & AI
-- 💞️ I’m looking to collaborate on programming team
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there, welcome to my GitHub!
 
-<!---
-masar7077/masar7077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Masoud, a software engineer with a Master's degree in Software Engineering.
+
+I specialize in web development and have strong experience with:
+
+- HTML / CSS (Responsive design, SEO-friendly)
+- WordPress theme development
+- PHP programming
+- Familiarity with Python for small to mid-sized projects
+
+I'm passionate about continuous learning, team collaboration, and personal growth.  
+I always strive to write clean, maintainable, and scalable code.
+
+Feel free to explore my projects!
